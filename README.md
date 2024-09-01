@@ -10,6 +10,6 @@
 
 * Here's a tier list of the colors I like:
     - 1. Teal
-         - 2. Orange
+        - 2. Orange
              - 3. Peach
         
